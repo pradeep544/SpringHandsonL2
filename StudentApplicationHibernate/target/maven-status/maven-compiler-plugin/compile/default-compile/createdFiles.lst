@@ -1,0 +1,7 @@
+service/StudentDetailsServiceImpl.class
+service/StudentDetailsService.class
+repository/StudentRepositoryHibernate.class
+model/Student.class
+driver/ApplicationDriver.class
+repository/StudentRepositoryHibernateImpl.class
+aspect/LoggingAdvice.class
